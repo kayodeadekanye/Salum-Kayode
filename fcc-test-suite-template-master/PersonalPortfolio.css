@@ -1,0 +1,32 @@
+*{
+	padding:0;
+	margin:0;
+	background-color:#D1F2EB;
+	list-style-type:none;
+}
+#navbar ul li
+{
+	float:right;
+	padding:20px;
+
+}
+#welcome-section
+{
+	margin:0 auto;
+	text-align: centre;
+	width:200;
+		padding:200px 200px 200px 200px;
+	
+}
+#navbar 
+{
+	display:block;
+}
+#welcome-section
+{
+	display:block;
+}
+header,nav,section
+{
+	display:block;
+}
